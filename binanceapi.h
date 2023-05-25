@@ -1,3 +1,9 @@
+/*
+======================================================================
+=        Copyright (C) Mehdi torshani  email:mehdi.torshani@gmail.com
+=                       .:M.T:.
+======================================================================
+*/
 #ifndef BINANCEAPI_H
 #define BINANCEAPI_H
 
